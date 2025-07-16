@@ -9,7 +9,7 @@ export default function   Info(){
               <img src={photo} className="profile" alt="kishore siiting under nature" />
               <div>
                 <h1>KISHORE K M</h1>
-                <h4>UI/UX Designer</h4>
+                <h4>Creative Thinker</h4>
                 <a id="link" href="https://kishorekmportfolio.netlify.app/">portfolio.com</a>
                 
                 <div id="btn-w">
